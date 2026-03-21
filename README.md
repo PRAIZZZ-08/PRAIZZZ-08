@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**PRAIZZZ-08/PRAIZZZ-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██████╗  █████╗ ███╗   ███╗██╗██╗     ███████╗██████╗ ██╗███╗   ██╗
+██╔══██╗██╔══██╗████╗ ████║██║██║     ██╔════╝██╔══██╗██║████╗  ██║
+██████╔╝███████║██╔████╔██║██║██║     █████╗  ██████╔╝██║██╔██╗ ██║
+██╔═══╝ ██╔══██║██║╚██╔╝██║██║██║     ██╔══╝  ██╔══██╗██║██║╚██╗██║
+██║     ██║  ██║██║ ╚═╝ ██║██║███████╗███████╗██║  ██║██║██║ ╚████║
+╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+```
 
-Here are some ideas to get you started:
+# Hey, I'm Pamilerin Sodeke 👾
+### Fullstack Engineer · Student · Builder · Ready to Ship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Engineering student by day. Fullstack dev every other hour.*
+*I write Go on the backend, React on the frontend, and occasionally forget to sleep.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRAIZZZ-08)
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```go
+package main
+
+import "fmt"
+
+type Developer struct {
+    Name      string
+    Role      string
+    Stack     []string
+    Status    string
+    Currently string
+}
+
+func main() {
+    me := Developer{
+        Name:      "Pamilerin Sodeke",
+        Role:      "Fullstack Engineer + Student",
+        Stack:     []string{"Go", "React", "TypeScript", "React Native"},
+        Status:    "Open to work — let's build something real",
+        Currently: "Shipping projects, leveling up daily",
+    }
+
+    fmt.Printf("Hey 👋 I'm %s\n", me.Name)
+    fmt.Printf("I build: %v\n", me.Stack)
+    fmt.Printf("Status: %s\n", me.Status)
+}
+```
+
+---
+
+## 🛠 Tech Stack
+
+### 🔥 Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Desktop
+<p align="left">
+  <img src="https://img.shields.io/badge/Wails-FF3E00?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 🚀 Deploy & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🔨 Currently Building
+
+| Project | Stack | What it does |
+|--------|-------|--------------|
+| 🍔 **FUTMinnaEats** | Go · React · Supabase · Railway | Campus food delivery PWA for FUT Minna |
+| 📺 **Anime Tracker** | Go · React/TS · Supabase | Track episodes, never lose your place |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRAIZZZ-08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAIZZZ-08&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAIZZZ-08&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+> I'm actively looking for internship and contract opportunities.
+> If you're building something interesting — or need someone who can ship backend *and* frontend — hit me up.
+
+<div align="center">
+
+**[LinkedIn](#) · [X / Twitter](#) · [GitHub](https://github.com/PRAIZZZ-08)**
+
+*"Write code that works. Then make it good."*
+
+</div>
