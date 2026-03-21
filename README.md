@@ -14,7 +14,7 @@
 
 *Engineering student by day. Fullstack dev every other hour.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamilerin-sodeke-10b66138b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamilerin-sodeke-10b66138b)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/praizzz_08)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRAIZZZ-08)
 
@@ -41,8 +41,8 @@ func main() {
     me := Developer{
         Name:      "Pamilerin Sodeke",
         Role:      "Fullstack Engineer + Student",
-        Stack:     []string{"Go", "React", "TypeScript", "React Native"},
-        Status:    "Open to work — let's build something real",
+        Stack:     []string{"Go"},
+        Status:    "Open to internships — let's build something real",
         Currently: "Shipping projects, leveling up daily",
     }
 
@@ -56,45 +56,42 @@ func main() {
 
 ## 🛠 Tech Stack
 
-### 🔥 Core
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### 🌐 Frontend
-<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Desktop
-<p align="left">
-  <img src="https://img.shields.io/badge/Wails-FF3E00?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wails-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-### 🚀 Deploy & Tools
+---
+
+## ⚙️ Tools & Platforms
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🔨 Currently Building
+## 🔨 Projects
 
-| Project | Stack | What it does |
-|--------|-------|--------------|
-| 📺 **Anime Tracker** | Go · React · Supabase | Track episodes, never lose your place |
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🍔 **Campus Food Delivery PWA** | Go · Supabase · Railway | Backend engineer — built auth, order flow, file uploads & deployment |
+| 📺 **Anime Episode Tracker** | Go · Supabase · Railway · HTML · CSS · React  | Track watch progress across anime series |
 
 ---
 
@@ -106,17 +103,18 @@ func main() {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAIZZZ-08&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PRAIZZZ-08&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Open to Internships
 
-> If you're building something interesting — or need someone who can ship backend *and* frontend — hit me up.
+> Open to Internships,
+>  Let's talk.
 
 <div align="center">
 
-**[LinkedIn](#) · [X / Twitter](#) · [GitHub](https://github.com/PRAIZZZ-08)**
+**[LinkedIn](https://www.linkedin.com/in/pamilerin-sodeke-10b66138b) · [X / Twitter](https://x.com/praizzz_08) · [GitHub](https://github.com/PRAIZZZ-08)**
 
 </div>
