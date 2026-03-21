@@ -10,13 +10,12 @@
 ```
 
 # Hey, I'm Pamilerin Sodeke 👾
-### Fullstack Engineer · Student · Builder · Ready to Ship
+### Software Engineer · Student · Ready to Ship
 
 *Engineering student by day. Fullstack dev every other hour.*
-*I write Go on the backend, React on the frontend, and occasionally forget to sleep.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamilerin-sodeke-10b66138b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/praizzz_08)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRAIZZZ-08)
 
 </div>
@@ -70,7 +69,6 @@ func main() {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Desktop
@@ -96,8 +94,7 @@ func main() {
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| 🍔 **FUTMinnaEats** | Go · React · Supabase · Railway | Campus food delivery PWA for FUT Minna |
-| 📺 **Anime Tracker** | Go · React/TS · Supabase | Track episodes, never lose your place |
+| 📺 **Anime Tracker** | Go · React · Supabase | Track episodes, never lose your place |
 
 ---
 
@@ -116,13 +113,10 @@ func main() {
 
 ## 📬 Let's Connect
 
-> I'm actively looking for internship and contract opportunities.
 > If you're building something interesting — or need someone who can ship backend *and* frontend — hit me up.
 
 <div align="center">
 
 **[LinkedIn](#) · [X / Twitter](#) · [GitHub](https://github.com/PRAIZZZ-08)**
-
-*"Write code that works. Then make it good."*
 
 </div>
