@@ -91,7 +91,7 @@ func main() {
 | Project | Stack | Description |
 |--------|-------|-------------|
 | 🍔 **Campus Food Delivery PWA** | Go · Supabase · Railway | Backend engineer — built auth, order flow, file uploads & deployment |
-| 📺 **Anime Episode Tracker** | Go · Supabase · Railway · HTML · CSS · React  | Track watch progress across anime series |
+| 📺 **Airadate** | Go · Supabase · Railway · HTML · CSS · React  | Track watch progress across tv, series, anime on one platform |
 
 ---
 
